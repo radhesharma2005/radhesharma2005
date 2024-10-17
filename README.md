@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*L_QoAG863l8QvqxpNyBiqw.gif)
-<h1 align="center">Hi 👋, I'm Rahul Joshi</h1>
+<h1 align="center">Hi 👋, I'm Radheshyam Sharma</h1>
 <h3 align="center">"In the DJ booth of code, I remix challenges into beats of innovation, dropping bytes that make the crowd shout 'Encore!'"</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3bab9728898167.55d79cd0b855f.gif">
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **rahulaes1704@gmail.com**
+- 📫 How to reach me **mr.radheshyam2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
